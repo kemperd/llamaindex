@@ -1,0 +1,4 @@
+jupyterlab
+llama-index=0.4.28
+langchain=0.0.111
+python-dotenv=1.0.0
