@@ -9,4 +9,4 @@ Steps to get started:
 2. Change .env file to add the connection parameters to the OpenAI API
 3. Create a Python environment
 4. Run pip -r requirements.txt
-5. Run the workbooks from Jupyter
+5. Run the workbook from Jupyter
